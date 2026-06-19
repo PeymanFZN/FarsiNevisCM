@@ -1,7 +1,7 @@
 <p align="right" dir="rtl">
-
+<p align="center">
 # 🇮🇷 فارسی‌نویس هوشمند برای ClientMod
-
+</p>
 <p align="center" dir="rtl">
   <img src="Screenshot/Splash.png" alt="FarsiNevis Preview" width="700">
 </p>
