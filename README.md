@@ -1,6 +1,6 @@
 <p align="right">
 
-# 🇮🇷 فارسی‌نویس هوشمند برای ClientMod
+# ClientMod فارسی‌نویس هوشمند برای
 
 <p align="center">
   <img src="لینک_عکس_اصلی_شما_اینجا" alt="FarsiNevis Preview" width="600">
