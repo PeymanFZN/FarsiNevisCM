@@ -1,6 +1,6 @@
 <p align="right" dir="rtl">
   
-# 🇮🇷 فارسی‌نویس هوشمند برای ClientMod
+# 🇮🇷 فارسی‌نویس هوشمند برای بازی کانتر کلاینت‌مود
 
 <p align="center" dir="rtl">
   <img src="لینک_عکس_اصلی_شما_اینجا" alt="FarsiNevis Preview" width="700">
