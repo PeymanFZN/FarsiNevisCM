@@ -3,7 +3,7 @@
 # 🇮🇷 فارسی‌نویس هوشمند برای بازی کانتر کلاینت‌مود
 
 <p align="center" dir="rtl">
-  <img src="لینک_عکس_اصلی_شما_اینجا" alt="FarsiNevis Preview" width="700">
+  <img src="Screenshot/Splash.png" alt="FarsiNevis Preview" width="700">
 </p>
 
 **دیگر نگران تایپ فارسی در Counter-Strike: Source نباشید!**
