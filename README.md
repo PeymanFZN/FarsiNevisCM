@@ -1,5 +1,4 @@
 <div dir="rtl" align="right">
-  
 # 💬 فارسی نویس هوشمند بازی کانتر کلاینت‌مود
 
 <p align="center" dir="rtl">
