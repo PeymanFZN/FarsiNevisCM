@@ -1,8 +1,7 @@
 <div dir="rtl" align="right">
   
-  ## 🚀 فارسی نویس هوشمند بازی کانتر کلاینت‌مود
+  # 🇮🇷 فارسی نویس هوشمند بازی کانتر کلاینت‌مود
 
-# 🇮🇷 فارسی‌نویس هوشمند برای ClientMod
 
 <p align="center" dir="rtl">
   <img src="Screenshot/Splash.png" alt="FarsiNevis Preview" width="700">
