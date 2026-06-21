@@ -1,4 +1,5 @@
 <p align="right" dir="rtl">
+**دیگر نگران تایپ فارسی در بازی Counter-Strike: Source نباشید!**
 
 # 🇮🇷 فارسی‌نویس هوشمند برای ClientMod
 
