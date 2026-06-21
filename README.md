@@ -3,13 +3,15 @@
 # 💬 فارسی نویس هوشمند بازی کانتر کلاینت‌مود
 
 
-<p align="center" dir="rtl">
-  <img src="Screenshot/Splash.png" alt="FarsiNevis Preview" width="700">
-</p>
 
 **دیگر نگران تایپ فارسی در بازی Counter-Strike: Source نباشید!**
 
 ابزار سبک، سریع و هوشمند **FarsiNevisCM** امکان چت کاملاً راحت به زبان فارسی را در بازی کانتر کلاینت‌مود فراهم کرده است.
+
+
+<p align="center" dir="rtl">
+  <img src="Screenshot/Splash.png" alt="FarsiNevis Preview" width="700">
+</p>
 
 ---
 
