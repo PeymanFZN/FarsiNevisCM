@@ -30,10 +30,12 @@
 
 ### ۱. تنظیم Launch Prams (در لانچر ClientMod) 
 برای اینکه پنجره چت روی بازی اجرا شود قبل از اجرای کامل بازی کد زیر را در تنظیمات لانچر کلاینت‌مود بخش **`Launch Prams`** وارد کنید: 
- <p align="left" dir="ltr">
+```text
+-windowed -noborder
+```
   
  **`-windowed -noborder`** 
-</p>
+
 
 
  
