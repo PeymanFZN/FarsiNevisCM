@@ -27,7 +27,7 @@
 
 
 <div dir="ltr" align="left">
-  <code>-windowed -noborder</code>
+  <pre>-windowed -noborder</pre>
 </div>
 
 
@@ -47,7 +47,7 @@
 ## 📝 نحوه استفاده
 
 1. با کلید میانبر پیشفرض **`F8`** پنجره برنامه را باز کنید.
-2. 2. متن فارسی خود را تایپ کنید.
+2. متن فارسی خود را تایپ کنید.
 3. متن را ارسال کنید:
 
 <div dir="ltr" align="left">
