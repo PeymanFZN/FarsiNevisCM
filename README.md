@@ -1,6 +1,6 @@
 <div dir="rtl" align="right">
   
-# ⌨️ فارسی نویس هوشمند بازی کانتر کلاینت‌مود
+# 💬 فارسی نویس هوشمند بازی کانتر کلاینت‌مود
 
 <p align="center" dir="rtl">
   <img src="Screenshot/Splash.png" alt="FarsiNevis Preview" width="700">
@@ -32,6 +32,10 @@
 برای اینکه پنجره چت روی بازی اجرا شود قبل از اجرای کامل بازی کد زیر را در تنظیمات لانچر کلاینت‌مود بخش **`Launch Prams`** وارد کنید: 
  
  **`-windowed -noborder`** 
+ 
+ <p align="center" dir="rtl">
+  <img src="Screenshot/Screenshot4.png" alt="Help for launch prams" width="600">
+</p>
 ### 2. جلوگیری از قطع شدن صدای بازی
 کنسول بازی را با کلید **`~`** باز کنید و دستور زیر را وارد کنید تا موقعی که پنجره چت فارسی نویس رو باز میکنید صدای بازی قطع نشه:
 
