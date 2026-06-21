@@ -30,8 +30,12 @@
 
 ### ۱. تنظیم Launch Prams (در لانچر ClientMod) 
 برای اینکه پنجره چت روی بازی اجرا شود قبل از اجرای کامل بازی کد زیر را در تنظیمات لانچر کلاینت‌مود بخش **`Launch Prams`** وارد کنید: 
- 
+ <p align="left" dir="ltr">
+  
  **`-windowed -noborder`** 
+</p>
+
+
  
 <p align="center" dir="rtl">
   <img src="Screenshot/Screenshot4.png" alt="Help for launch prams" width="600">
@@ -40,8 +44,10 @@
 ### 2. جلوگیری از قطع شدن صدای بازی
 کنسول بازی را با کلید **`~`** باز کنید و دستور زیر را وارد کنید تا موقعی که پنجره چت فارسی نویس رو باز میکنید صدای بازی قطع نشه:
 <p align="left" dir="ltr">
+  
  **`snd_mute_losefocus 0`** 
 </p>
+
 ---
 
 ## 📝 نحوه استفاده
